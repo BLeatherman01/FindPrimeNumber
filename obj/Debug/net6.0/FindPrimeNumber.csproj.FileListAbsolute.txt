@@ -1,0 +1,15 @@
+C:\Users\bleat\source\repos\FindPrimeNumber\bin\Debug\net6.0\FindPrimeNumber.exe
+C:\Users\bleat\source\repos\FindPrimeNumber\bin\Debug\net6.0\FindPrimeNumber.deps.json
+C:\Users\bleat\source\repos\FindPrimeNumber\bin\Debug\net6.0\FindPrimeNumber.runtimeconfig.json
+C:\Users\bleat\source\repos\FindPrimeNumber\bin\Debug\net6.0\FindPrimeNumber.dll
+C:\Users\bleat\source\repos\FindPrimeNumber\bin\Debug\net6.0\FindPrimeNumber.pdb
+C:\Users\bleat\source\repos\FindPrimeNumber\obj\Debug\net6.0\FindPrimeNumber.csproj.AssemblyReference.cache
+C:\Users\bleat\source\repos\FindPrimeNumber\obj\Debug\net6.0\FindPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bleat\source\repos\FindPrimeNumber\obj\Debug\net6.0\FindPrimeNumber.AssemblyInfoInputs.cache
+C:\Users\bleat\source\repos\FindPrimeNumber\obj\Debug\net6.0\FindPrimeNumber.AssemblyInfo.cs
+C:\Users\bleat\source\repos\FindPrimeNumber\obj\Debug\net6.0\FindPrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\bleat\source\repos\FindPrimeNumber\obj\Debug\net6.0\FindPrimeNumber.dll
+C:\Users\bleat\source\repos\FindPrimeNumber\obj\Debug\net6.0\refint\FindPrimeNumber.dll
+C:\Users\bleat\source\repos\FindPrimeNumber\obj\Debug\net6.0\FindPrimeNumber.pdb
+C:\Users\bleat\source\repos\FindPrimeNumber\obj\Debug\net6.0\FindPrimeNumber.genruntimeconfig.cache
+C:\Users\bleat\source\repos\FindPrimeNumber\obj\Debug\net6.0\ref\FindPrimeNumber.dll
