@@ -38,7 +38,7 @@ namespace FindPrimeTest
                     primeCount++;
                     if (primeCount == num)
                     {
-                        Console.WriteLine($"{num}th Prime Number is {number}");
+                        Console.WriteLine($"The number {num} Prime Number is {number}");
                         return number;
                     }
                 }
